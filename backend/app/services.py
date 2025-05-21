@@ -1,7 +1,7 @@
 from gtts import gTTS
 import os
 from datetime import datetime
-import json
+
 
 AUDIO_FOLDER = 'static/audio'
 
