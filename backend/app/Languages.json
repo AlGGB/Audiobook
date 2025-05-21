@@ -1,0 +1,12 @@
+{
+    "supported_languages": [
+        {"name": "Español", "code": "es"},
+        {"name": "Inglés", "code": "en"},
+        {"name": "Francés", "code": "fr"},
+        {"name": "Alemán", "code": "de"},
+        {"name": "Japonés", "code": "ja"},
+        {"name": "Chino (simplificado)", "code": "zh-cn"}
+    ],
+    "default_source_language": "es",
+    "default_target_language": "en"
+}

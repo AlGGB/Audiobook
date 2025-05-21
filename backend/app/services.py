@@ -1,8 +1,11 @@
 from gtts import gTTS
 import os
 from datetime import datetime
+import json
 
 AUDIO_FOLDER = 'static/audio'
+
+LANG_CONFIG_FILE = 'Language.json'
 
 def text_to_speech(text, lang='es', slow=False):
     try:
